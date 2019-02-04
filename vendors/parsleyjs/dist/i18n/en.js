@@ -13,7 +13,7 @@ Parsley.addMessages('en', {
     alphanum:     "This value should be alphanumeric."
   },
   notblank:       "This value should not be blank.",
-  required:       "Debe completar todos los campos.",
+  required:       "This value is required.",
   pattern:        "This value seems to be invalid.",
   min:            "This value should be greater than or equal to %s.",
   max:            "This value should be lower than or equal to %s.",
